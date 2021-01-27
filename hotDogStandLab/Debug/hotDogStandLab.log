@@ -1,0 +1,5 @@
+﻿  HotDogStandClass.cpp
+C:\Users\rvill\source\repos\hotDogStandLab\hotDogStandLab\HotDogStandClass.cpp(49,29): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  hotDogStandLab.vcxproj -> C:\Users\rvill\source\repos\hotDogStandLab\Debug\hotDogStandLab.exe

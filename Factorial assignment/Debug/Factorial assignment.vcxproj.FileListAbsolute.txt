@@ -1,0 +1,2 @@
+C:\Users\rvill\source\repos\Factorial assignment\Debug\Factorial assignment.exe
+C:\Users\rvill\source\repos\Factorial assignment\Debug\Factorial assignment.pdb
